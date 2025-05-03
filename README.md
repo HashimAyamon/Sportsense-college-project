@@ -2,7 +2,6 @@
 
 🚀 Enhancing Local Sports Visibility & Engagement
 
-
 📌 Overview
 Sportsense is a dynamic platform designed to bridge the information gap in local sports events. Unlike mainstream apps that focus only on international sports, Sportsense prioritizes regional and lesser-known sports, offering enthusiasts a centralized hub for event details, news, and real-time updates.
 
